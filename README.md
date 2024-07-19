@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning programming and basically anything CyberSec or CompSci
 - 💞️ I’m looking to collaborate on something eventually
 - Reach me by email
-- 😄 Pronouns: they/them
