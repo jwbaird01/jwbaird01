@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jwbaird01
 - 👀 I’m interested in Radios, Cybersecurity, Drones, etc. the list really goes on
-- 🌱 I’m currently learning programming and basically anything CyberSec or CompSci
-- 💞️ I’m looking to collaborate on something eventually
+- Also interested in the arts!
+- 🌱 I’m always trying to grow my skills in programming, currently learning rust!
 - Reach me by email
